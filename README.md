@@ -1,2 +1,2 @@
 # python
-用于Python学习
+learn 文件夹：用于Python学习
